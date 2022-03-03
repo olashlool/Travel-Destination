@@ -1,0 +1,30 @@
+* {
+  padding: 0px;
+  margin: 0px;
+}
+.listGroup {
+  background-color: rgb(99, 96, 96);
+  padding: 60px;
+}
+a {
+  text-decoration: none;
+  color: antiquewhite;
+}
+
+ul {
+  display: flex;
+  justify-content: space-evenly;
+  list-style: none;
+  font-size: 25px;
+}
+li {
+  border: 2px solid #ccc;
+  border-radius: 50px;
+  padding: 20px;
+}
+.para {
+  float: right;
+  margin-top: 20px;
+  font-size: 40px;
+  font-weight: bold;
+}
